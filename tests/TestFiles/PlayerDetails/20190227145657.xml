@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+  <FileName>playerdetails.xml</FileName>
+  <Version>2.7</Version>
+  <UserID>13434502</UserID>
+  <FetchedDate>2019-02-27 14:56:57</FetchedDate>
+  <UserSupporterTier>platinum</UserSupporterTier>
+  <IsPlayingMatch>False</IsPlayingMatch>
+  <Player>
+    <PlayerID>441208458</PlayerID>
+    <FirstName>Abo</FirstName>
+    <NickName></NickName>
+    <LastName>Saady</LastName>
+    <PlayerNumber>100</PlayerNumber>
+    <PlayerCategoryID>0</PlayerCategoryID>
+    <OwnerNotes></OwnerNotes>
+    <Age>17</Age>
+    <AgeDays>49</AgeDays>
+    <NextBirthDay>2019-05-01 00:00:00</NextBirthDay>
+    <ArrivalDate>2019-01-09 08:18:00</ArrivalDate>
+    <PlayerForm>6</PlayerForm>
+    <Cards>0</Cards>
+    <InjuryLevel>-1</InjuryLevel>
+    <Statement></Statement>
+    <PlayerLanguage>Senegalese</PlayerLanguage>
+    <PlayerLanguageID>81</PlayerLanguageID>
+    <TrainerData />
+    <OwningTeam>
+      <TeamID>2044374</TeamID>
+      <TeamName>Ali Bomaye</TeamName>
+      <LeagueID>121</LeagueID>
+    </OwningTeam>
+    <Salary>5700</Salary>
+    <IsAbroad>False</IsAbroad>
+    <Agreeability>2</Agreeability>
+    <Aggressiveness>1</Aggressiveness>
+    <Honesty>2</Honesty>
+    <Experience>2</Experience>
+    <Loyalty>20</Loyalty>
+    <MotherClubBonus>True</MotherClubBonus>
+    <Leadership>5</Leadership>
+    <Specialty>0</Specialty>
+    <NativeCountryID>86</NativeCountryID>
+    <NativeLeagueID>121</NativeLeagueID>
+    <NativeLeagueName>Sénégal</NativeLeagueName>
+    <TSI>4090</TSI>
+    <PlayerSkills>
+      <StaminaSkill>4</StaminaSkill>
+      <KeeperSkill>1</KeeperSkill>
+      <PlaymakerSkill>9</PlaymakerSkill>
+      <ScorerSkill>4</ScorerSkill>
+      <PassingSkill>6</PassingSkill>
+      <WingerSkill>4</WingerSkill>
+      <DefenderSkill>2</DefenderSkill>
+      <SetPiecesSkill>5</SetPiecesSkill>
+    </PlayerSkills>
+    <Caps>0</Caps>
+    <CapsU20>0</CapsU20>
+    <CareerGoals>4</CareerGoals>
+    <CareerHattricks>0</CareerHattricks>
+    <LeagueGoals>4</LeagueGoals>
+    <CupGoals>0</CupGoals>
+    <FriendliesGoals>0</FriendliesGoals>
+    <GoalsCurrentTeam>4</GoalsCurrentTeam>
+    <TransferListed>False</TransferListed>
+    <TransferDetails />
+  </Player>
+</HattrickData>

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HattrickApiModel", "src\HattrickApiModel\HattrickApiModel.csproj", "{E57D5747-BBAF-4905-980E-A98FDDF2BAA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "tests\UnitTests\UnitTests.csproj", "{8EF757E2-13FD-4489-B5EF-4973F803F656}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDatabaseModel", "src\AzureDatabaseModel\AzureDatabaseModel.csproj", "{4F7FE711-75AA-4A33-ACC5-1065D7302F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57D5747-BBAF-4905-980E-A98FDDF2BAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57D5747-BBAF-4905-980E-A98FDDF2BAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57D5747-BBAF-4905-980E-A98FDDF2BAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57D5747-BBAF-4905-980E-A98FDDF2BAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF757E2-13FD-4489-B5EF-4973F803F656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF757E2-13FD-4489-B5EF-4973F803F656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF757E2-13FD-4489-B5EF-4973F803F656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF757E2-13FD-4489-B5EF-4973F803F656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7FE711-75AA-4A33-ACC5-1065D7302F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7FE711-75AA-4A33-ACC5-1065D7302F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7FE711-75AA-4A33-ACC5-1065D7302F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7FE711-75AA-4A33-ACC5-1065D7302F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56FFBA3-5872-4E26-8C0A-CC363E5FB8E3}
+	EndGlobalSection
+EndGlobal

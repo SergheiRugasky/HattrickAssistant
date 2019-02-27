@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/AzureDatabaseModel/bin
+/src/AzureDatabaseModel/obj
+/src/HattrickApiModel/bin
+/src/HattrickApiModel/obj
+/tests/UnitTests/bin
+/tests/UnitTests/obj
+/HattrickAssistant.DotSettings.user
+/HattrickAssistant.sln.DotSettings.user
